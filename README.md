@@ -4,9 +4,9 @@ Here are my solutions to some of the challenges in the Code Wars website.
 I organized all of the challenges like so:
 
 ```
-root
+repo
 ├── <programming-language 1>
-│    ├── 7kyu
+│    ├── 5kyu
 │    │    ├── <challenge 1>
 │    │    │   ├── README.md
 │    │    │   ├── solution.<programming-language-extension>
@@ -21,7 +21,7 @@ root
 │    │    │   ├── solution.<programming-language-extension>
 │    │    ├── <challenge 2>
 │    │    ...
-│    ├── 5kyu
+│    ├── 7kyu
 │    ...
 ├── <programming-language 2>
 │    ├── 7kyu

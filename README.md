@@ -31,6 +31,8 @@ repo
 ├── LICENSE
 ```
 
+**Note:** _Java_ solutions will have their class name, so most of them won't be called ```Solution.java```.
+
 Bear in mind that I'm not an expert progammer, I love to be challenged and I try my best to find the optimal solution to solve the challenges (well, most of the time).
 
 I still have lots to learn and I hope that by showing you how I chose to tackle these challenges, we can improve together and discuss better ways to solve them :)

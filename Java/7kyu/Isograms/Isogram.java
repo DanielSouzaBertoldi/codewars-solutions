@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class isogram {
+public class Isogram {
     public static boolean  isIsogram(String str) {
         str = str.toLowerCase();
         
